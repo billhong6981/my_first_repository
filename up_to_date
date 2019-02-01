@@ -1,0 +1,3 @@
+How to keep my work up to date between local and remote with two steps:
+1. git checkout <my_branch>
+2. git merge master
